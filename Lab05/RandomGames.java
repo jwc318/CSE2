@@ -1,7 +1,7 @@
 //Joey Carney
 //9/24/14
 //Lab05--RandomGames
-//
+//This program will prompt the user for an input for a certain game
 
 import java.util.Scanner;
 public class RandomGames {
